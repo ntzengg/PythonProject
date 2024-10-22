@@ -1,0 +1,5 @@
+fastapi
+fastapi_auth
+pyjwt
+jwt
+uvicorn
